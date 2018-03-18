@@ -1,0 +1,19 @@
+server: 
+  port: 8888
+---
+spring:
+    profiles:
+      active: native
+
+message: 
+  id: 16
+  text: Hello from Root Default Messaging config
+
+user: 
+  id: 121
+  role: 
+    - root-admin
+    - moderator
+  password: root
+  
+environment: dev

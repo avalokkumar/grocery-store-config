@@ -1,0 +1,7 @@
+user: 
+  id: 125
+  role: 
+    - tester
+    - developer
+    - moderator
+  password: password-default

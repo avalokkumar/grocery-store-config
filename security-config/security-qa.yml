@@ -1,0 +1,6 @@
+user: 
+  id: 124
+  role: 
+    - tester
+    - moderator
+  password: password12

@@ -1,0 +1,6 @@
+user: 
+  id: 122
+  role: 
+    - developer
+    - moderator
+  password: password
